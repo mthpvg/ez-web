@@ -1,11 +1,12 @@
 # Hello World
 
-- Open the index.html file with a browser
+- In the file explorer, open the *0-hello-world/index.html* file with a browser. Double click on it should do it.
+- In the text editor, find the *index.html* file under the *0-hello-world* directory
 - Change the string "Hello World" to something else
-- Save the file
-- In the browser, refresh the page, the shortcut is `CMD-R`
+- Save the file, `CMD-S`
+- Back in the browser, refresh/reload the page, `CMD-R`
 - Congratulations!
 
-It does not do much, but it does not cost much either.
+Impressive not, I know.
 
 [Go to the next step](./1-html)

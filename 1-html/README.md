@@ -1,6 +1,6 @@
 # HTML
 
-In the index.html, there is now a minimal HTML skeleton.
+In the *1-html/index.html*, there is now a minimal HTML skeleton.
 
 ## Changing a title
 
